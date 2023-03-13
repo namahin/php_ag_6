@@ -71,3 +71,11 @@
 .btn:hover {
     background-color: black;
 }
+.user-table{}
+.user-table tr{}
+.user-table tr td{}
+.user-table tbody{}
+.user-table tbody tr{}
+.user-table tbody tr td{
+    border: 1px dashed #DDDDDD;
+}
